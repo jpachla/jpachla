@@ -4,7 +4,7 @@
 
 
 
-<h2>Certificações:</h2>
+<h2><span style='font-size:150px;'>&#128387;</span> Certificações:</h2>
 
 <b>- Cisco Network Defense</b>
 

@@ -11,6 +11,8 @@ Estudante de graduação em Segurança da Informação. Aqui você irá encontra
 
 <h2>👨‍💻 Projetos de Cibersegurança:</h2>
 
+- [Active Directory Home Lab](https://github.com/jpachla/activedirectory)
+
 
 
 <h2><span style='font-size:150px;'>&#128387;</span> Certificações:</h2>

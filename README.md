@@ -1,6 +1,6 @@
-<h1>Olá, eu sou João A. Pachla</h1>
+<h1>Olá, eu sou João Pachla</h1>
 
-Estudante de graduação em Segurança da Informação. Aqui você irá encontrar projetos e laboratórios de aprendizado relacionados a área defensiva da cibersegurança.
+Estudante de graduação em Segurança da Informação. Aqui você irá encontrar projetos e laboratórios relacionados a área defensiva da cibersegurança.
 
 - SOC
 - Resposta à Incidentes

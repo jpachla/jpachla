@@ -12,6 +12,7 @@ Estudante de graduação em Segurança da Informação. Aqui você irá encontra
 <h2>👨‍💻 Projetos de Cibersegurança:</h2>
 
 - [Active Directory Home Lab](https://github.com/jpachla/activedirectory)
+- [Elastic Stack - SIEM Challenge](https://github.com/jpachla/elksiem)
 
 
 

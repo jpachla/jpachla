@@ -13,6 +13,7 @@ Estudante de graduação em Segurança da Informação. Aqui você irá encontra
 
 - [Active Directory Home Lab](https://github.com/jpachla/activedirectory)
 - [Elastic Stack - SIEM Challenge](https://github.com/jpachla/elksiem)
+- [Lab Monitoramento de Endpoint - Wazuh e Sysmon](https://github.com/jpachla/wazuh-sysmon)
 
 
 
